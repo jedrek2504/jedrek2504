@@ -19,5 +19,11 @@
 ## 🛠️ Projects I’m Proud Of
 - 🚗 **Garage Parking Assistant**  
   Raspberry Pi + ultrasonic sensors + LED strips + camera + AI detection → fully integrated with Home Assistant.  
-  👉 [Check it out here](https://github.com/jedrek2504/Garage-Parking-Assistant)  
+  👉 [Check it out here](https://github.com/jedrek2504/Garage-Parking-Assistant)
+
+- 🎙️ **VERA – Voice-Enabled Reliable Assistant**  
+  AI-powered voice assistant improving accessibility in e-banking.  
+  Winner of **Collabothon 2025** (Commerzbank).  
+  👉 [Check it out here](https://github.com/hare32/Collabothon_AIHolics)
+
 ---
