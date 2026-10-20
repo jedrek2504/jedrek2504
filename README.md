@@ -10,7 +10,7 @@
 ## 💻 What I Do
 - 🖥️ Write mostly in **C++** (but Python sneaks in often)  
 - 🔧 Comfortable with **Linux, CMake, Jenkins, Yocto, BitBake**  
-- 📡 3 years of experience as **Embedded Software Developer @ Nokia**  
+- 📡 4 years of experience as **Embedded Software Engineer** @Nokia @Ericsson
 - 🔍 Recently diving into **performance profiling, memory optimization, and binary instrumentation**  
 - 🤖 Build side projects with **Raspberry Pi, sensors, LEDs, cameras, MQTT + Home Assistant**  
 
